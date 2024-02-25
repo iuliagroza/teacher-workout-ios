@@ -6,7 +6,7 @@
 
 Teacher Workout [was prototyped](https://civiclabs.ro/ro/solutions/teacher-workout) in [Civic Labs](https://civiclabs.ro/ro), the research and prototyping program in [Code for Romania](https://code4.ro/ro). 
 
-Teacher Workout is an application meant to deliver shot, interactive lessons. The themes of these lessons include identifying children who manifest a difficulty in learning, handling difficult classrooms situations, integrating children with particular needs in a classroom. These micro-courses are meant to help foster positive habits for teachers and professors alike. 
+**Teacher Workout** is an application meant to deliver shot, interactive lessons. The themes of these lessons include identifying children who manifest a difficulty in learning, handling difficult classrooms situations, integrating children with particular needs in a classroom. These micro-courses are meant to help foster positive habits for teachers and professors alike. 
 
 The Teacher Workout ecosystem is composed of:
 
